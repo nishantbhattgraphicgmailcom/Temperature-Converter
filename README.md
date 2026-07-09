@@ -26,7 +26,7 @@ Navigate to the folder where the file is located. 📂
 
 Run the following command:
 
-Bash
+bash 
 
 python temperatureconverter.py
 
