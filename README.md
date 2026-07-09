@@ -43,15 +43,7 @@ Enter temperature in Celsius: 25
 
 25.0C is 77.00F
 
+
 🤝 Contributing
 
-Feel free to fork this project and submit pull requests if you would like to add more features, such as Kelvin conversion or a Graphical User Interface (GUI)! 💡
-
-
-
-
-
-
-25.0C is 77.00F
-🤝 Contributing
 Feel free to fork this project and submit pull requests if you would like to add more features, such as Kelvin conversion or a Graphical User Interface (GUI)! 💡
