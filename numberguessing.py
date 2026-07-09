@@ -16,5 +16,3 @@ while guess!=jackpot:
 
 print("right guess")
 print("you tool",counter,"attempts")
-
-
