@@ -1,8 +1,8 @@
 import random
-random.randint(1,1000)
 
-jackpot=random.randint(1,1000)
-guess=int(input("guess number:"))
+# Generate the random jackpot number
+jackpot = random.randint(1, 1000)
+guess = int(input("guess number:"))
 counter=1
 
 while guess!=jackpot:
@@ -10,9 +10,10 @@ while guess!=jackpot:
         print("guess higher")
     else:
         print("guess lower")
-
-    guess=int(input("guess number:"))
-    counter+=1
+    
+    # Force the program to wait for new input
+    guess=int(input("guess again:"))
+    counter+= 1
 
 print("right guess")
-print("you tool",counter,"attempts")
+print("you took",counter,"attempts")
